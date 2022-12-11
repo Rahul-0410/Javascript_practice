@@ -29,3 +29,14 @@ function numFactorial(n) {
     }
 }
 console.log(numFactorial(5))
+
+// table of the number given 
+function tables(n) {
+    let i=1
+    while (i<11) {
+     console.log(n,"*",i,"=",n*i)
+     i++;
+
+    }
+}
+tables(2)
