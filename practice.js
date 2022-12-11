@@ -28,4 +28,4 @@ function numFactorial(n) {
         return factorial
     }
 }
-console.log(numFactorial(1))
+console.log(numFactorial(5))
