@@ -46,3 +46,10 @@ function sum(x, y) {
   console.log(sum(10, 20));
   console.log(sum(10, 10));
   
+
+//   SI 
+  const P=10000
+  const R=7
+  const T=2
+  const SI=(P*R*T)/100
+  console.log(SI)
